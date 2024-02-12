@@ -1,4 +1,4 @@
-# CustomTabView
+# Custom Tab View
 
 ## Description
 
